@@ -1,0 +1,26 @@
+[
+    {
+        "_id":"65dg8c2cb547a06bbad2f01e",
+        "name":"Your Assistant",
+        "email":"help.yourAssistant@gmail.com",
+        "photoUrl":"https://th.bing.com/th/id/OIP.wfKnq7s4ZzqRpBfx4A_FBQHaE5?w=600&h=397&rs=1&pid=ImgDetMain",
+        "role":"instructor",
+        "gender":"is not specified",
+        "address":"Is not provided",
+        "phone":"Is not Provided",
+        "about":"",
+        "skills":null
+    },
+    {
+        "_id":"65e2b7aa3d118503232304a3",
+        "name":"Ema",
+        "email":"email@gmail.com",
+        "photoUrl":"https://img.freepik.com/premium-photo/indian-business-man-manager-teacher-having-virtual-meeting-video-call-work_562687-3301.jpg",
+        "role":"instructor",
+        "gender":"female",
+        "address":"West bengal",
+        "phone":"4474737528",
+        "about":"",
+        "skills":null
+    }
+]

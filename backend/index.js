@@ -517,6 +517,10 @@ async function run() {
               foreignField: "email",
               as: "instructor",
             },
+          },{
+               $match:{
+                "instructor.role":"instructor",
+               }
           },
           {
             $project: {
@@ -535,6 +539,7 @@ async function run() {
           {
             $limit: 6,
           },
+          
         ];
 
         const result = await classesCollection.aggregate(pipeline).toArray();
